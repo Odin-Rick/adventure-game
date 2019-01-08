@@ -1,0 +1,384 @@
+body {
+	background-image: url("img/vrouw.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-color: black;
+}
+button:hover {
+	background-color: grey;
+}
+button {
+	background-color: black;
+	border: none;
+	display: inline-block;
+	color: white;
+	outline: none;
+}
+#title {
+	color: white;
+	margin-left: 110px;
+	margin-top: 60px;
+}
+#description {
+	color: white;
+	padding-bottom: 20px; 
+	margin-left: 5px;
+}
+#game-buttons {
+	margin-left: 94px;
+}
+#div1 {
+	position: absolute;
+	display: none;
+	padding-top: 20px;
+	font-size: 18px;
+	width: 200px;
+}
+#div2 {
+	position: absolute;
+	display: none;
+	padding-top: 20px;
+	font-size: 18px;
+	width: 240px;
+	left: 90px;
+}
+#div3 {
+	position: absolute;
+	display: none;
+	padding-top: 20px;
+}
+#hoi {
+	width: 250px;
+	position: absolute;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	left: 400px;
+	background-color: rgba(0,0,0,0);
+	font-size: 17px;
+	outline: none;
+	margin-top: 200px;
+}
+#hey {
+	width: 165px;
+	position: absolute;
+	left: 680px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	background-color: rgba(0,0,0,0);
+	font-size: 17px;
+	outline: none;
+	margin-top: 200px;
+}
+#hallo {
+	width: 265px;
+	position: absolute;
+	left: 860px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	background-color: rgba(0,0,0,0);
+	color: white;
+	font-size: 17px;
+	outline: none;
+	margin-top: 200px;
+}
+#title1 {
+	color: white;
+	margin-left: 500px;
+}
+#B1div{
+	position: absolute;
+	display: none;
+	margin-top: 40px;
+}
+#B2div {
+	position: absolute;
+	display: none;
+	margin-top: 40px;
+	left: 55px;
+	
+}
+#B3div {
+	position: absolute;
+	display: none;
+	margin-top: 40px;
+}
+#title2 {
+	color: white;
+	margin-left: 500px;
+}
+#A1div{
+	position: absolute;
+	display: none;
+	margin-top: 40px;
+	margin-left: 20px;	 
+}
+#A2div {
+	position: absolute;
+	display: none;
+	margin-top: 40px;
+	left: 35px;
+}
+#A3div {
+	position: absolute;
+	display: none;
+	margin-top: 40px;
+}
+#levelA1 {
+	width: 250px;
+	position: absolute;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	left: 400px;
+	background-color: rgba(0,0,0,0);
+	font-size: 17px;
+	outline: none;
+	margin-top: 200px;
+}
+#levelA2 {
+	width: 165px;
+	position: absolute;
+	left: 680px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	background-color: rgba(0,0,0,0);
+	font-size: 17px;
+	outline: none;
+	margin-top: 200px;
+}
+#levelA3 {
+	width: 265px;
+	position: absolute;
+	left: 860px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	background-color: rgba(0,0,0,0);
+	color: white;
+	font-size: 17px;
+	outline: none;
+	margin-top: 200px;
+}
+#faal2 {
+	color: white;
+	text-align: center;
+	width: 400px;
+	margin-left: 500px;
+}
+a {
+	color: white;
+}
+#C3div {
+	color: white;
+	text-align: center;
+	font-size: 25px;
+	margin-top: 30px;
+}
+#title3{
+	color: white;
+	text-align: center;
+}
+#levelE1 {
+	width: 250px;
+	position: absolute;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	left: 520px;
+	background-color: rgba(0,0,0,0);
+	font-size: 17px;
+	outline: none;
+	margin-top: 200px;
+}
+#levelE2 {
+	width: 250px;
+	position: absolute;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	left: 720px;
+	background-color: rgba(0,0,0,0);
+	font-size: 17px;
+	outline: none;
+	margin-top: 200px;
+}
+#faal3{
+	color: white;
+	text-align: center;
+	width: 500px;
+	margin-left: 500px;
+}
+#taart {
+	position: absolute;
+	width: 100px;
+	top: 380px;
+	left: 410px;
+}
+#taart:hover{
+	transform: scale(1.2);
+}
+#buttonTaart {
+	width: 250px;
+	position: absolute;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	left: 650px;
+	background-color: rgba(0,0,0,0);
+	font-size: 25px;
+	outline: none;
+	margin-top: 200px;
+}
+#levelF1 {
+	width: 250px;
+	position: absolute;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	left: 400px;
+	background-color: rgba(0,0,0,0);
+	font-size: 17px;
+	outline: none;
+	margin-top: 200px;
+}
+#levelF2{
+	width: 250px;
+	position: absolute;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	left: 640px;
+	background-color: rgba(0,0,0,0);
+	font-size: 17px;
+	outline: none;
+	margin-top: 200px;
+}
+#levelF3{
+	width: 250px;
+	position: absolute;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	left: 870px;
+	background-color: rgba(0,0,0,0);
+	font-size: 17px;
+	outline: none;
+	margin-top: 200px;
+}
+#faal4 {
+	color: white;
+	text-align: center;
+	width: 500px;
+	margin-left: 500px;
+}
+#title4 {
+	color: white;
+	text-align: center;
+}
+#F2div {
+	color: white;
+	text-align: center;
+	margin-top: 30px;
+	display: none;
+}
+#levelG1 {
+	width: 250px;
+	position: absolute;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	left: 470px;
+	background-color: rgba(0,0,0,0);
+	font-size: 17px;
+	outline: none;
+	margin-top: 200px;
+}
+#levelG2 {
+	width: 250px;
+	position: absolute;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	left: 730px;
+	background-color: rgba(0,0,0,0);
+	font-size: 17px;
+	outline: none;
+	margin-top: 200px;
+}
+#title5 {
+	color: white;
+	text-align: center;
+}
+#title6 {
+	color: white;
+	text-align: center;
+}
+#levelT6 {
+	width: 600px;
+	position: absolute;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	left: 490px;
+	background-color: rgba(0,0,0,0);
+	font-size: 25px;
+	outline: none;
+	margin-top: 180px;
+}
+#levelT7 {
+	color: white;
+	text-align: center;
+}
+#levelM1{
+	width: 250px;
+	position: absolute;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	left: 400px;
+	background-color: rgba(0,0,0,0);
+	font-size: 17px;
+	outline: none;
+	margin-top: 200px;
+}
+#levelM2{
+	width: 250px;
+	position: absolute;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	left: 640px;
+	background-color: rgba(0,0,0,0);
+	font-size: 17px;
+	outline: none;
+	margin-top: 200px;
+}
+#levelM3{
+	width: 250px;
+	position: absolute;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	left: 870px;
+	background-color: rgba(0,0,0,0);
+	font-size: 17px;
+	outline: none;
+	margin-top: 200px;
+}
+#faal4 {
+	color: white;
+	text-align: center;
+	width: 500px;
+	margin-left: 500px;
+}
+#faal5 {
+	color: white;
+	text-align: center;
+	width: 500px;
+	margin-left: 500px;
+}
+#win5 {
+	color: white;
+	text-align: center;
+	width: 500px;
+	margin-left: 500px;
+}
+#win6 {
+	color: black;
+	text-align: center;
+	width: 500px;
+	margin-left: 500px;
+}
+#faal8 {
+	color: white;
+	text-align: center;
+	width: 500px;
+	margin-left: 500px;
+}
+
